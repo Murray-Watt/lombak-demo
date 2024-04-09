@@ -1,0 +1,5 @@
+2024-02-17 02:22:13.301 [main] DEBUG org.mwatt.App - error
+2024-02-17 02:22:13.304 [main] DEBUG org.mwatt.App - warn
+2024-02-17 02:22:13.304 [main] DEBUG org.mwatt.App - info
+2024-02-17 02:22:13.304 [main] DEBUG org.mwatt.App - debug
+2024-02-17 02:22:13.304 [main] DEBUG org.mwatt.App - trace
